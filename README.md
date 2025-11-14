@@ -37,4 +37,32 @@ AI Summarizer Pro es una aplicación web que utiliza inteligencia artificial par
 ```bash
 git clone https://github.com/Jhoalvi25/AI-Summarizer-pro.git
 cd AI-Summarizer-pro
+```
 
+2. Instalar dependencias
+
+```bash
+npm install
+```
+
+3. Configurar variables de entorno:
+
+```bash
+HUGGINGFACE_API_KEY=
+MONGODB_URI=
+NEXTAUTH_SECRET=
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+```
+
+4. Ejecutar la app en modo desarrollo
+
+```bash
+npm run dev
+```
+
+5. Abrir en el navegador
+
+```bash
+http://localhost:3000
+```
