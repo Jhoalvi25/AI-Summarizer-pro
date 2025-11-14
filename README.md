@@ -15,9 +15,6 @@ AI Summarizer Pro es una aplicación web que utiliza inteligencia artificial par
 - 🎨 **Diseño minimalista y moderno**  
   Soporte para **modo claro y oscuro**, con interfaz limpia y atractiva.
 
-- 💾 **Historial de resúmenes**  
-  Guarda todos tus resúmenes asociados a tu cuenta de usuario.
-
 - 🌐 **Integración con Next.js y Tailwind CSS**  
   App web **responsive**, rápida y confiable.
 
