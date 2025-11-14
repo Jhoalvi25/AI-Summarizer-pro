@@ -27,7 +27,7 @@ export default function Footer() {
           </a>
 
           <a 
-            href="https://github.com/Jhoalvi25" 
+            href="https://github.com/Jhoalvi25/AI-Summarizer-pro/tree/main" 
             target="_blank" 
             rel="noopener noreferrer"
             className="flex items-center gap-1 hover:opacity-100 transition"
